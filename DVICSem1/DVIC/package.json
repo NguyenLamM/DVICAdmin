@@ -15,7 +15,7 @@
     "body-parser": "^1.19.0",
     "bootstrap-vue": "^2.0.0",
     "cross-env": "^5.2.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mongodb": "^3.5.7",
     "nuxt": "^2.0.0",
     "webdriverio": "^6.1.5"
